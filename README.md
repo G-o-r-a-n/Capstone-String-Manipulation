@@ -11,6 +11,8 @@ The objectives of this project are to:
     - `is_palindrome`: This function takes an input string and checks if it is a palindrome.
 1. Use control structures to check for palindromes and print out the result.
 
+The Python script that accomplishes this can be found in the file: [palindrome_checker.py](https://github.com/G-o-r-a-n/Capstone-String-Manipulation/blob/main/palindrome_checker.py).
+
 ## Code Explained:
 
 The script executes the following steps:
